@@ -1,5 +1,9 @@
 ### Hi, I'm hisune ✨ ✨ ✨   
-<a href="https://github.com/hisune"><img src="https://badges.pufler.dev/years/hisune?style=flat-square&color=black&logo=github"></a><a href="https://github.com/hisune?tab=repositories"><img src="https://badges.pufler.dev/repos/hisune?style=flat-square&color=black&logo=github"></a><a href="https://gist.github.com/hisune"><img src="https://badges.pufler.dev/gists/hisune?style=flat-square&color=black&logo=github"></a><a href="https://github.com/hisune"><img src="https://badges.pufler.dev/commits/monthly/hisune?style=flat-square&color=black&logo=github"></a>
+<a href="https://github.com/hisune"><img src="https://badges.pufler.dev/visits/hisune/hisune?style=flat-square&color=black&logo=github"></a>
+<a href="https://github.com/hisune"><img src="https://badges.pufler.dev/years/hisune?style=flat-square&color=black&logo=github"></a>
+<a href="https://github.com/hisune?tab=repositories"><img src="https://badges.pufler.dev/repos/hisune?style=flat-square&color=black&logo=github"></a>
+<a href="https://gist.github.com/hisune"><img src="https://badges.pufler.dev/gists/hisune?style=flat-square&color=black&logo=github"></a>
+<a href="https://github.com/hisune"><img src="https://badges.pufler.dev/commits/monthly/hisune?style=flat-square&color=black&logo=github"></a>
 <br>
 <div>
   <a href="https://github.com/hisune" class="rich-diff-level-one">
